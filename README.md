@@ -1,10 +1,3 @@
-/*
+This is a simple counting bot
 
-__________.__        __   /\        __________     ___.    
-\______   \__| ____ |  | _)/ ______ \______   \__ _\_ |__  
- |       _/  |/ ___\|  |/ / /  ___/  |     ___/  |  \ __ \ 
- |    |   \  \  \___|    <  \___ \   |    |   |  |  / \_\ \ BOT Creato per Rick's Pub Discord Server - Creato da J3ax#8367
- |____|_  /__|\___  >__|_ \/____  >  |____|   |____/|___  /
-        \/        \/     \/     \/                      \/ 
-
-    */
+This was created for the Discord Server Rick's Pub but made available to anyone who wants to implement it into their community.
